@@ -1,0 +1,9 @@
+[submodule "frontend/admin-web"]
+	path = frontend/admin-web
+	url = https://github.com/lei56602-glitch/yudao-ui-admin-vue3.git
+	branch = development
+
+[submodule "frontend/mobile-app"]
+	path = frontend/mobile-app
+	url = https://github.com/lei56602-glitch/yudao-ui-admin-uniapp.git
+	branch = development
